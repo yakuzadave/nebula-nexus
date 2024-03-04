@@ -21,4 +21,4 @@ LLM_MODEL_NAME = os.environ.get("LLM_MODEL_NAME", "gpt-4")
 LLM_MODEL_TEMPERATURE = os.environ.get("LLM_MODEL_TEMPERATURE", "0.2")
 LLM_MODEL_TEMPERATURE = float(LLM_MODEL_TEMPERATURE)
 
-MOCK = (os.environ.get("MOCK") == 'True')
+MOCK = (os.environ.get("MOCK", 'False') == 'True')
