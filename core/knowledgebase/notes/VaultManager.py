@@ -8,6 +8,7 @@ from core.knowledgebase.TextAnalizer import TextAnalizer
 from core.knowledgebase.MemgraphManager import MemgraphManager
 from core.knowledgebase.notes.CollectionManager import CollectionManager
 
+
 class VaultManager:
     def __init__(self: VaultManager, vault_path: str) -> None:
         self.vault_path = vault_path
@@ -22,14 +23,16 @@ class VaultManager:
 
             file_text = pathlib.Path(file_path).read_text()
             if i == 0:
-                res_queries = self.ta.text_to_cypher_create(file_text, self.vault_path, file_path)
+                res_queries = self.ta.text_to_cypher_create(
+                    file_text, self.vault_path, file_path)
             else:
                 data = self.mm.export_data_for_repo_path(self.vault_path)
-                res_queries = self.ta.data_and_text_to_cypher_update(str(data), file_text, self.vault_path, file_path)
-            
+                res_queries = self.ta.data_and_text_to_cypher_update(
+                    str(data), file_text, self.vault_path, file_path)
+
             self.mm.run_update_query(res_queries)
             self.cm.add_file(file_path)
-            
+
         for i, file_path in enumerate(file_paths):
             self.mm.update_embeddings(file_path)
         return

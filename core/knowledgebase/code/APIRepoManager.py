@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import requests
 
+
 class APIRepoManager:
     node_counter = 0
 
@@ -40,37 +41,45 @@ class APIRepoManager:
         for item in contents:
             if 'type' in item and 'name' in item:
                 if item['type'] == 'dir':
-                    query, set_query, unique_node_name = APIRepoManager.create_node("Dir", item['name'], repo)
+                    query, set_query, unique_node_name = APIRepoManager.create_node(
+                        "Dir", item['name'], repo)
                     create_queries.append(query)
                     set_queries.append(set_query)
-                    merge_queries.append(APIRepoManager.create_relationship(parent_node_name, unique_node_name))
-                    
-                    c_queries, s_queries, m_queries = APIRepoManager.cypher_from_contents(owner, repo, unique_node_name, item['path'])
+                    merge_queries.append(APIRepoManager.create_relationship(
+                        parent_node_name, unique_node_name))
+
+                    c_queries, s_queries, m_queries = APIRepoManager.cypher_from_contents(
+                        owner, repo, unique_node_name, item['path'])
                     create_queries.extend(c_queries)
                     set_queries.extend(s_queries)
                     merge_queries.extend(m_queries)
                 elif item['type'] == 'file':
-                    query, set_query, unique_node_name = APIRepoManager.create_node("File", item['name'], repo)
+                    query, set_query, unique_node_name = APIRepoManager.create_node(
+                        "File", item['name'], repo)
                     create_queries.append(query)
                     set_queries.append(set_query)
-                    merge_queries.append(APIRepoManager.create_relationship(parent_node_name, unique_node_name))
+                    merge_queries.append(APIRepoManager.create_relationship(
+                        parent_node_name, unique_node_name))
 
         return create_queries, set_queries, merge_queries
 
     def generate_cypher(self):
         create_queries, set_queries, merge_queries = [], [], []
 
-        query, set_query, repo_node_name = APIRepoManager.create_node("Repo", self.repo, self.repo)
+        query, set_query, repo_node_name = APIRepoManager.create_node(
+            "Repo", self.repo, self.repo)
         create_queries.append(query)
         set_queries.append(set_query)
 
-        c_queries, s_queries, m_queries = APIRepoManager.cypher_from_contents(self.owner, self.repo, repo_node_name)
+        c_queries, s_queries, m_queries = APIRepoManager.cypher_from_contents(
+            self.owner, self.repo, repo_node_name)
 
         create_queries.extend(c_queries)
         set_queries.extend(s_queries)
         merge_queries.extend(m_queries)
 
         return '\n'.join(create_queries + set_queries + merge_queries)
+
 
 if __name__ == "__main__":
     owner = "pkukic"

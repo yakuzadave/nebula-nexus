@@ -3,15 +3,16 @@ from typing import List
 import os
 import glob
 
+
 class Utils:
     @staticmethod
     def collection_name_from_repo_path(repo_path: str) -> str:
         return os.path.basename(os.path.normpath(repo_path))
-    
+
     @staticmethod
     def repo_path_from_file_path(file_path: str) -> str:
         return os.path.dirname(file_path)
-    
+
     @staticmethod
     def collection_name_from_file_path(file_path: str) -> str:
         return Utils.collection_name_from_file_path(Utils.repo_path_from_file_path(file_path))
@@ -54,6 +55,7 @@ class Utils:
         #     }
         # }]
 
-        new_results = [Utils.node_to_dict(n) for n in nodes] + [Utils.edge_to_dict(e) for e in edges]
+        new_results = [Utils.node_to_dict(
+            n) for n in nodes] + [Utils.edge_to_dict(e) for e in edges]
 
         return new_results

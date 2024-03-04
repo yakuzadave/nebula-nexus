@@ -19,29 +19,30 @@ from core.knowledgebase.notes.Searcher import Searcher
 
 class GeneralQueryAgent:
     def __init__(self: GeneralQueryAgent, repo_path: str, tools: List[Tool]) -> None:
-    
+
         self.repo_path = repo_path
 
         self.system_message = ''
         self._init_system_message()
 
         self.llm = ChatOpenAI(
-            temperature=constants.LLM_MODEL_TEMPERATURE, 
+            temperature=constants.LLM_MODEL_TEMPERATURE,
             openai_api_key=constants.OPENAI_API_KEY,
             model_name=constants.LLM_MODEL_NAME
         )
-        
+
         self.agent_kwargs = {
             "extra_prompt_messages": [MessagesPlaceholder(variable_name="memory")],
-            "system_message": self.system_message, 
+            "system_message": self.system_message,
         }
 
-        self.memory = ConversationBufferMemory(memory_key="memory", return_messages=True)
+        self.memory = ConversationBufferMemory(
+            memory_key="memory", return_messages=True)
 
         self.run_cypher_query = Tool.from_function(
-                func = MemgraphManager.select_query_tool,
-                name = "run_cypher_query",
-                description = f"""Useful when you want to run Cypher queries on the knowledge graph. 
+            func=MemgraphManager.select_query_tool,
+            name="run_cypher_query",
+            description=f"""Useful when you want to run Cypher queries on the knowledge graph. 
                 Note that the input has to be valid Cypher. Consult the graph schema in order to know how to write correct queries. 
                 Pay attention to the repo_path attribute.
                 Returns results of executing the query."""
@@ -65,16 +66,18 @@ class GeneralQueryAgent:
         return
 
     def _init_system_message(self: GeneralQueryAgent) -> None:
-            prompt_name = 'system_message_query'
-            prompt_path = Path(os.path.join(os.path.dirname(__file__), 'prompts', prompt_name))
-            prompt_text = prompt_path.read_text()
-            prompt_template = PromptTemplate.from_template(prompt_text)
+        prompt_name = 'system_message_query'
+        prompt_path = Path(os.path.join(
+            os.path.dirname(__file__), 'prompts', prompt_name))
+        prompt_text = prompt_path.read_text()
+        prompt_template = PromptTemplate.from_template(prompt_text)
 
-            mm = MemgraphManager()
-            schema = mm.get_schema_for_repo(self.repo_path)
-            self.system_message = SystemMessage(content=prompt_template.format(schema=schema, repo_path=self.repo_path))
+        mm = MemgraphManager()
+        schema = mm.get_schema_for_repo(self.repo_path)
+        self.system_message = SystemMessage(
+            content=prompt_template.format(schema=schema, repo_path=self.repo_path))
 
-            return
+        return
 
     def ask(self: GeneralQueryAgent, question: str) -> str:
         return self.agent.run(question)
@@ -93,11 +96,10 @@ class NotesQueryAgent(GeneralQueryAgent):
             Returns descriptions of 3 most similar nodes."""
         )
 
-
         search_text = Tool.from_function(
-                func=self.searcher.search_text_tool,
-                name="search_text",
-                description="""Useful for when you want to query the document store via the query embeddings. 
+            func=self.searcher.search_text_tool,
+            name="search_text",
+            description="""Useful for when you want to query the document store via the query embeddings. 
                 Returns 3 most similar sentences to a given query."""
         )
 
@@ -110,7 +112,7 @@ class NotesQueryAgent(GeneralQueryAgent):
 class CodeQueryAgent(GeneralQueryAgent):
 
     def __init__(self: CodeQueryAgent, repo_path: str) -> None:
-        
+
         read_file = Tool.from_function(
             func=lambda p: Path(p).read_text(),
             name="read_file",
@@ -119,14 +121,14 @@ class CodeQueryAgent(GeneralQueryAgent):
         )
 
         listdir = Tool.from_function(
-            func = CodeQueryAgent.list_files,
-            name="listdir", 
+            func=CodeQueryAgent.list_files,
+            name="listdir",
             description="""Useful for when you want to find out the directory structure of the repository, and to know where a file is located."""
         )
-        
+
         code_tools = [read_file, listdir]
         super().__init__(repo_path, code_tools)
-        
+
         return
 
     @staticmethod
@@ -147,9 +149,9 @@ class CodeQueryAgent(GeneralQueryAgent):
 if __name__ == '__main__':
 
     example_reponame = 'History'
-    example_repopath = os.path.join(os.path.dirname(__file__), 'examples', example_reponame)
+    example_repopath = os.path.join(os.path.dirname(
+        __file__), 'examples', example_reponame)
     na = NotesQueryAgent(example_repopath)
-
 
     print(na.ask("hi"))
     print(na.ask("I am Patrik."))

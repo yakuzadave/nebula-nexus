@@ -1,5 +1,6 @@
 from typing import List
 
+
 class CypherQueryHandler:
 
     @staticmethod
@@ -12,13 +13,13 @@ class CypherQueryHandler:
         return (f"MATCH p=(n {{ repo_path: '{repo_path}' }})-[r]->(m {{ repo_path: '{repo_path}' }}) "
                 f"WITH project(p) AS repo_specific_subgraph "
                 f"RETURN repo_specific_subgraph")
-    
+
     @staticmethod
     def get_export_for_file_path_query(file_path: str) -> str:
         return (f"MATCH p=(n {{ file_path: '{file_path}' }})-[r]->(m {{ file_path: '{file_path}' }}) "
                 f"WITH project(p) AS file_specific_subgraph "
                 f"RETURN file_specific_subgraph")
-    
+
     @staticmethod
     def get_delete_all_query() -> str:
         return (f"MATCH (n) "
@@ -29,7 +30,7 @@ class CypherQueryHandler:
         return (f"MATCH (n) "
                 f"WHERE n.repo_path = '{repo_path}' "
                 f"DETACH DELETE n")
-    
+
     @staticmethod
     def get_delete_graph_for_file_query(file_path: str) -> str:
         return (f"MATCH (n) "
@@ -41,20 +42,20 @@ class CypherQueryHandler:
         return (f"MATCH (n)"
                 f"WHERE n.file_path = '{old_file_path}'"
                 f"SET n.file_path = '{new_file_path}'")
-    
+
     @staticmethod
     def get_strings_to_embed_query(file_path: str) -> str:
         return (f"MATCH (n) "
                 f"OPTIONAL MATCH (n)-[r]->(m) "
                 f"WHERE n.file_path = '{file_path}' "
-                f"RETURN ID(n) as Node_ID, " 
+                f"RETURN ID(n) as Node_ID, "
                 f"n.name as Node_Name, "
                 f"labels(n)[0] as Node_Type, "
                 f"collect({{Neighbour_Name: m.name, Neighbour_Type: labels(m)[0], Relationship_Type: type(r)}}) as Connections")
 
     @staticmethod
     def get_node_description_query(node_id: int) -> str:
-        return  (f"MATCH (n) "
+        return (f"MATCH (n) "
                 f"WHERE ID(n) = {node_id} "
                 f"OPTIONAL MATCH (n)-[r1]->(m) "
                 f"OPTIONAL MATCH (p)-[r2]->(n) "
@@ -69,14 +70,14 @@ class CypherQueryHandler:
         return (f"MATCH (n) "
                 f"WHERE ID(n) = {node_id} "
                 f"SET n.embeddings =  {embeddings} ")
-    
+
     @staticmethod
     def get_tmp_create_query(embeddings: List[float]) -> str:
         return (f"MATCH (n) "
                 f"WITH count(n) as N "
                 f"UNWIND range(1, N) as id "
                 f"CREATE (:Temp {{name: 'temp_'+id, embeddings: {embeddings} }}) ")
-    
+
     @staticmethod
     def get_tmp_delete_query() -> str:
         return (f"MATCH (n:Temp) "
@@ -89,7 +90,7 @@ class CypherQueryHandler:
                 f"CALL llm_util.schema(repo_specific_subgraph, 'prompt_ready') "
                 f"YIELD schema "
                 f"RETURN schema")
-    
+
     @staticmethod
     def get_vector_search_query() -> str:
         return ("MATCH (m) "
@@ -102,7 +103,7 @@ class CypherQueryHandler:
                 "RETURN ID(node1), cosine_similarity "
                 "ORDER BY cosine_similarity DESC "
                 "LIMIT 3")
-    
+
     @staticmethod
     def get_embeddings_for_node_query(node_id: int) -> str:
         return (f"MATCH (m) "

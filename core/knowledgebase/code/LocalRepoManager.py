@@ -7,6 +7,7 @@ import ctypes
 import yaml
 from gitignore_parser import parse_gitignore
 
+
 class LocalRepoManager:
 
     def __init__(self: LocalRepoManager, root_path: str) -> None:
@@ -47,13 +48,13 @@ class LocalRepoManager:
     @staticmethod
     def node_with_hash(file_path: str) -> str:
         return f'node{str(ctypes.c_size_t(hash(file_path)).value)}'
-    
+
     @staticmethod
     def remove_trailing_slash(file_path: str) -> str:
         if file_path.endswith('/'):
             return file_path[:-1]
         return file_path
-    
+
     def generate_cypher(self: LocalRepoManager) -> str:
         queries = []
         repo_path = LocalRepoManager.escape_cypher_value(self.root_path)
@@ -68,24 +69,29 @@ class LocalRepoManager:
                 dirs.remove('.git')
 
             root = LocalRepoManager.remove_trailing_slash(root)
-            dirs[:] = [LocalRepoManager.remove_trailing_slash(d) for d in dirs if not matches(os.path.join(root, d))]
+            dirs[:] = [LocalRepoManager.remove_trailing_slash(
+                d) for d in dirs if not matches(os.path.join(root, d))]
             files = [f for f in files if not matches(os.path.join(root, f))]
 
             root_escaped = LocalRepoManager.escape_cypher_value(root)
             nn_root = LocalRepoManager.node_with_hash(f'dir_{root_escaped}')
-            
+
             if nn_root not in visited_dirs:
-                queries.append(f"MERGE ({nn_root}:Dir {{path: '{root_escaped}', repo_path: '{repo_path}'}})")
+                queries.append(
+                    f"MERGE ({nn_root}:Dir {{path: '{root_escaped}', repo_path: '{repo_path}'}})")
                 visited_dirs.append(nn_root)
 
             for directory in dirs:
                 directory_path = os.path.join(root, directory)
-                directory_escaped = LocalRepoManager.escape_cypher_value(directory_path)
+                directory_escaped = LocalRepoManager.escape_cypher_value(
+                    directory_path)
 
-                nn_dir = LocalRepoManager.node_with_hash(f'dir_{directory_escaped}')
+                nn_dir = LocalRepoManager.node_with_hash(
+                    f'dir_{directory_escaped}')
 
-                if nn_dir not in visited_dirs:    
-                    queries.append(f"MERGE ({nn_dir}:Dir {{path: '{directory_escaped}', repo_path: '{repo_path}'}})")
+                if nn_dir not in visited_dirs:
+                    queries.append(
+                        f"MERGE ({nn_dir}:Dir {{path: '{directory_escaped}', repo_path: '{repo_path}'}})")
                     queries.append(f"CREATE ({nn_dir})-[:IN]->({nn_root})")
                     visited_dirs.append(nn_dir)
 
@@ -96,7 +102,8 @@ class LocalRepoManager:
                 language = LocalRepoManager.detect_language(file_path)
                 loc, marked_todo = LocalRepoManager.analyze_file(file_path)
 
-                nn_file = LocalRepoManager.node_with_hash(f'file_{file_escaped}')
+                nn_file = LocalRepoManager.node_with_hash(
+                    f'file_{file_escaped}')
 
                 attributes = f"path: '{file_escaped}', repo_path: '{repo_path}'"
                 if language:
@@ -105,7 +112,6 @@ class LocalRepoManager:
                 queries.append(f"CREATE ({nn_file})-[:IN]->({nn_root})")
 
         return '\n'.join(queries)
-
 
 
 if __name__ == '__main__':

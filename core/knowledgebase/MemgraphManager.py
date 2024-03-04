@@ -12,9 +12,11 @@ from core.knowledgebase.Utils import Utils
 from core.knowledgebase.CypherQueryHandler import CypherQueryHandler as CQ
 from core.knowledgebase.notes.Embeddings import Embeddings
 
+
 class MemgraphManager:
     def __init__(self: MemgraphManager) -> None:
-        self.db = Memgraph(host=constants.MEMGRAPH_HOST, port=constants.MEMGRAPH_PORT)
+        self.db = Memgraph(host=constants.MEMGRAPH_HOST,
+                           port=constants.MEMGRAPH_PORT)
         return
 
     def run_update_query(self: MemgraphManager, query: str) -> None:
@@ -115,7 +117,6 @@ class MemgraphManager:
             strings_by_id[node_id] = out
         return strings_by_id
 
-
     def embeddings_by_id(self: MemgraphManager, file_path: str) -> Dict[str, List[float]]:
         strings_by_id = self.strings_to_embed_by_id(file_path)
         return {id: Embeddings.get_embedding(strings_by_id[id]) for id in strings_by_id.keys()}
@@ -154,11 +155,13 @@ class MemgraphManager:
         res = self.db.execute_and_fetch(query)
         return next(res)['embeddings']
 
+
 if __name__ == '__main__':
     arch = MemgraphManager()
 
     example_reponame = 'History'
-    example_repopath = os.path.join(os.path.dirname(__file__), 'examples', example_reponame)
+    example_repopath = os.path.join(os.path.dirname(
+        __file__), 'examples', example_reponame)
 
     example_fname = 'napoleon.txt'
     example_fpath = os.path.join(example_repopath, example_fname)
