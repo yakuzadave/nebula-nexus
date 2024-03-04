@@ -39,6 +39,7 @@ Before you start, make sure you have a running [Docker](https://www.docker.com/)
 
     ```
     OPENAI_API_KEY=YOUR_API_KEY
+    LLM_MODEL_NAME=gpt-4 # try with other models at your own risk
     ```
 
     Where YOUR_API_KEY is a key you can get [here](https://openai.com/).
