@@ -10,9 +10,6 @@ services:
     command: ["--log-level=TRACE"]
     networks:
       - memgraph-network
-    volumes:
-      - chroma_data:/etc/chroma
-      - mg_lib:/var/lib/memgraph
 
   memgraph-lab:
     image: memgraph/lab:latest
@@ -27,14 +24,8 @@ services:
       QUICK_CONNECT_MG_PORT: 7687
     networks:
       - memgraph-network
-    volumes:
-      - /Users/dcarmocan/Projects/mind-cave:/mind-cave
 
 networks:
   memgraph-network:
     external: true
     name: memgraph-platform_memgraph-network
-
-volumes:
-  chroma_data:
-  mg_lib:

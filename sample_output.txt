@@ -1,0 +1,748 @@
+Processing the test Obsidian vault directory...
+Processing file: /Users/dcarmocan/Projects/mind-cave/SPOG.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SPOG.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Zoom Dashboard Documentation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Zoom Dashboard Documentation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Summary Week - 20230915.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Summary Week - 20230915.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Project Plan Template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Project Plan Template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Cap_Planning_Article.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Cap_Planning_Article.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Terminator_Doc.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Terminator_Doc.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/SMART_GOALS_Format.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SMART_GOALS_Format.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Cap_planning_notes.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Cap_planning_notes.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/slack_tasks.md
+Error reading /Users/dcarmocan/Projects/mind-cave/slack_tasks.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/DISP_Discussion.md
+Error reading /Users/dcarmocan/Projects/mind-cave/DISP_Discussion.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/GCP_Data_Engineer_Exam_Prep_Notes.md
+Error reading /Users/dcarmocan/Projects/mind-cave/GCP_Data_Engineer_Exam_Prep_Notes.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/2023-07-20_CD-CD-Status.md
+Error reading /Users/dcarmocan/Projects/mind-cave/2023-07-20_CD-CD-Status.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Dashboard_Studio_Changes.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Dashboard_Studio_Changes.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/osquery_internal_documentation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/osquery_internal_documentation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Zoom Executive Summary Report.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Zoom Executive Summary Report.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Untitled.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Untitled.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Slack_RZ_Requests.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Slack_RZ_Requests.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Zoom- Splunk RZ Lookup List.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Zoom- Splunk RZ Lookup List.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Terminator Tests.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Terminator Tests.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Zoom_API_Access.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Zoom_API_Access.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/SPL Queries.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SPL Queries.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk DataViz.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk DataViz.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/status_report_20230717.md
+Error reading /Users/dcarmocan/Projects/mind-cave/status_report_20230717.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/DISP Tasks - Create Shared Mailbox.md
+Error reading /Users/dcarmocan/Projects/mind-cave/DISP Tasks - Create Shared Mailbox.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/SPOG_Gmail.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SPOG_Gmail.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/SignalFX_RC_App_Manifrest.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SignalFX_RC_App_Manifrest.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Blurbs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Blurbs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Home.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Home.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/GCP_VS_AWS.md
+Error reading /Users/dcarmocan/Projects/mind-cave/GCP_VS_AWS.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Design Plans.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Design Plans.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Valimail_Subdomain_Request.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Valimail_Subdomain_Request.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templating.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templating.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Dashboards_References.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Dashboards_References.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Zoom.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Zoom.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/fix_slack_channel_mapping.md
+Error reading /Users/dcarmocan/Projects/mind-cave/fix_slack_channel_mapping.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/SPL_Conditional_Chart.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SPL_Conditional_Chart.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Cisco_ESA_Settings_Mapping.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Cisco_ESA_Settings_Mapping.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/kb_template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/kb_template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/GitLab_Terminator_Template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/GitLab_Terminator_Template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/SPL_makeresults.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SPL_makeresults.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/BRAT-log.md
+Error reading /Users/dcarmocan/Projects/mind-cave/BRAT-log.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/OSQUERY.md
+Error reading /Users/dcarmocan/Projects/mind-cave/OSQUERY.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/New Sprint Story Points.md
+Error reading /Users/dcarmocan/Projects/mind-cave/New Sprint Story Points.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/GitLab_Pipelines.md
+Error reading /Users/dcarmocan/Projects/mind-cave/GitLab_Pipelines.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Coding_exercises.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Coding_exercises.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/.md
+Error reading /Users/dcarmocan/Projects/mind-cave/.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Summ-Test.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Summ-Test.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Collaboration_Services_Documentation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Collaboration_Services_Documentation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/SplunkDev.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SplunkDev.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/GitLab Templates V2.md
+Error reading /Users/dcarmocan/Projects/mind-cave/GitLab Templates V2.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Terminator_Tasks.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Terminator_Tasks.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/SNOW Blurbs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SNOW Blurbs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Zoom Dasboard Links.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Zoom Dasboard Links.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/SPOG_Brainstorming.md
+Error reading /Users/dcarmocan/Projects/mind-cave/SPOG_Brainstorming.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/SNOW_API_Gateway_Documentation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/SNOW_API_Gateway_Documentation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/Tasks.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/Tasks.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/JiraREST_mapping.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/JiraREST_mapping.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/Postfix.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/Postfix.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/Kiteworks_Form.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Personal/Tasks/Kiteworks_Form.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Personal/Training/Career Dev - Job Family Matrix.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Personal/Training/Career Dev - Job Family Matrix.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Personal/Training/docker_training.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Personal/Training/docker_training.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/osquery_project.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/osquery_project.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-01-30.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-01-30.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-10-06.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-10-06.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-11-08.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-11-08.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-08-18.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-08-18.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-03-20.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-03-20.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-01-11.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-01-11.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-11-09.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-11-09.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/Zoom_SPL_Queries.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/Zoom_SPL_Queries.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/SPOG_VDI.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/SPOG_VDI.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-13.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-13.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2022-12-12 1.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2022-12-12 1.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2022-12-07.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2022-12-07.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-01-31.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-01-31.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-18.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-18.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-11-06.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-11-06.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-06-05.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-06-05.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-08.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-08.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-28.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-28.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-02-24.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-02-24.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/Zoom_Tasks.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/Zoom_Tasks.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-11-13.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-11-13.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-03-28.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-03-28.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-05-19.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-05-19.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-08-14.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-08-14.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-02-16.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-02-16.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-06-06.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-06-06.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/get_project_feedback.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/get_project_feedback.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-02-27.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-02-27.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-06-02.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-06-02.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-10-04.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-10-04.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-01-26.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-01-26.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-14.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-14.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-20.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-20.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/Slack Requests.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/Slack Requests.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-05-23.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-05-23.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-04-18.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-04-18.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-10-25.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-10-25.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/SCP_Investigation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/SCP_Investigation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-15.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/2023-09-15.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/Cisco_Tasks.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/Cisco_Tasks.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Tasks/11/06/2023.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Tasks/11/06/2023.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Sprints/2023-01-27_Status.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Sprints/2023-01-27_Status.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Sprints/2023-01-06 - status.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Sprints/2023-01-06 - status.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Sprints/Agile/SCRUM_Team_Roles_And_Responsibilites.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Sprints/Agile/SCRUM_Team_Roles_And_Responsibilites.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/machine_learning.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/machine_learning.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/JS_Training.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/JS_Training.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/Adding in Port to macOS.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/Adding in Port to macOS.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/machine_learning_resources.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/machine_learning_resources.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/Training.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/Training.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/Import_vs_Require_in_JS.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/Import_vs_Require_in_JS.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/Pandas Training.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/Pandas Training.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/python_modules.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/python_modules.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/GCP_SkillBoost_Training.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/GCP_SkillBoost_Training.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Training/python_training_01092021.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Training/python_training_01092021.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Linking_Jira_GitLab.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Linking_Jira_GitLab.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Heimdall Project.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Heimdall Project.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/SFDC Slackbot Project.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/SFDC Slackbot Project.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Terminator_Metrics_Dashboards.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Terminator_Metrics_Dashboards.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Slack.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Slack.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Puppet Queries.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Puppet Queries.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Taskman.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Taskman.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Projects.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Projects.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/deploy_cloud_functions.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/deploy_cloud_functions.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Terminator_Doc_Index.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Terminator_Doc_Index.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/adobe_user_management.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/adobe_user_management.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Terminator_Functions.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Terminator_Functions.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Terminator.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Terminator.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Zoom_Dashboards.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Zoom_Dashboards.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Google_Workflows.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Google_Workflows.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Slack_SNOW_Integration.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Slack_SNOW_Integration.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Splunk_GitLab.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Splunk_GitLab.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Barracuda_Migration_File_Gen.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Barracuda_Migration_File_Gen.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/GCP_API_Gateway.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/GCP_API_Gateway.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Postman_Authentication_Doc.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/Postman_Authentication_Doc.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/SFDC Slackbot - Training the ML.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/SFDC Slackbot - Training the ML.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/jira_automation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Projects/Collab-Automation/jira_automation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getTags.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getTags.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getOutline.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getOutline.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getIdeas.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getIdeas.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/rewrite.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/rewrite.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getTitles.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getTitles.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/simplify.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/simplify.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getParagraph.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getParagraph.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getEmailNeg.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getEmailNeg.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/summarize.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/summarize.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getEmailPos.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/default/getEmailPos.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/huggingface/summarizeBART.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/huggingface/summarizeBART.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/huggingface/classify-bart-large-mnli.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/huggingface/classify-bart-large-mnli.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/huggingface/completeTextBloom.md
+Error reading /Users/dcarmocan/Projects/mind-cave/textgenerator/prompts/huggingface/completeTextBloom.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/Home/Base Index.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/Home/Base Index.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/Home/Home.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/Home/Home.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/osquery/osquery.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/osquery/osquery.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/GitLab/GitLab.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/GitLab/GitLab.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/drawings/drawings.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/drawings/drawings.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/projects/projects.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/projects/projects.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/process_docs/process_docs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/process_docs/process_docs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/GCP/GCP.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/GCP/GCP.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/Daily Notes/Daily Notes.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/Daily Notes/Daily Notes.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/M365/M365.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/M365/M365.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/Templates/Templates.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/Templates/Templates.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/Coding/Coding.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/Coding/Coding.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Spaces/Meetings/Meetings.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Spaces/Meetings/Meetings.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Barracuda/Barracuda.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Barracuda/Barracuda.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Barracuda/Barracuda_Preflight_Process.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Barracuda/Barracuda_Preflight_Process.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2022-10-20 13.36.08.excalidraw.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2022-10-20 13.36.08.excalidraw.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-10-30 11.11.47.excalidraw.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-10-30 11.11.47.excalidraw.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-07-10 09.33.57.excalidraw.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-07-10 09.33.57.excalidraw.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-06-22 10.15.46.excalidraw.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-06-22 10.15.46.excalidraw.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/AppScript_CSV_Extraction.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/AppScript_CSV_Extraction.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2022-08-25 11.52.19.excalidraw.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2022-08-25 11.52.19.excalidraw.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Testing Plan Terminator.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Testing Plan Terminator.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/SNOW_Usergroup_Create.excalidraw.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/SNOW_Usergroup_Create.excalidraw.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-09-06 10.43.41.excalidraw.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-09-06 10.43.41.excalidraw.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-09-26 11.47.09.excalidraw.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-09-26 11.47.09.excalidraw.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-08-16 14.19.36.excalidraw.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Drawing 2023-08-16 14.19.36.excalidraw.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Mindmap format.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Mindmap format.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Scribble Helper.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Scribble Helper.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Slideshow.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Slideshow.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Text Arch.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Text Arch.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Convert freedraw to line.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Convert freedraw to line.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Modify background color opacity.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Modify background color opacity.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Reverse arrows.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Reverse arrows.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Uniform size.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Uniform size.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Add Next Step in Process.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Add Next Step in Process.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Hardware Eraser Support.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/TheBrain-navigation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/TheBrain-navigation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Add Connector Point.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Add Connector Point.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed spacing.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed spacing.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Invert colors.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Invert colors.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Change shape of selected elements.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Change shape of selected elements.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Split Ellipse.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Split Ellipse.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Rename Image.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Rename Image.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Connect elements.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Connect elements.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Create new markdown file and embed into active drawing.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Grid.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Grid.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Link Alias.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Link Alias.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Darken background color.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Darken background color.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Box Selected Elements.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Box Selected Elements.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Palette loader.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Palette loader.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Transfer TextElements to Excalidraw markdown metadata.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Transfer TextElements to Excalidraw markdown metadata.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Auto Layout.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Auto Layout.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed inner distance.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed inner distance.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Convert text to link with folder and alias.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Grid Selected Images.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Grid Selected Images.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Repeat Elements.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Repeat Elements.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Lighten background color.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Lighten background color.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Elbow connectors.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Elbow connectors.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Dimensions.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Dimensions.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Mindmap connector.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Mindmap connector.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Font Family.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Font Family.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed vertical distance.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Fixed vertical distance.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Box Each Selected Groups.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Organic Line.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Organic Line.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Text Alignment.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set Text Alignment.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Create DrawIO file.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Create DrawIO file.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Select Elements of Type.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Select Elements of Type.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Split text by lines.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Split text by lines.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Text Aura.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Text Aura.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Excalidraw/Scripts/Downloaded/Folder Note Core - Make Current Drawing a Folder.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/Templater.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/Templater.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/Google_Logging_Queries.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/Google_Logging_Queries.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/p1_process.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/p1_process.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/Zoom_Splunk_Lookups.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/Zoom_Splunk_Lookups.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/sgs_approval_process.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/sgs_approval_process.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/Slack Documentation Refactoring.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/Slack Documentation Refactoring.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/Disco-Py.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/Disco-Py.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/Templater Examples.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/Templater Examples.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/doc_db.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/doc_db.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/GSheet Formulas and Tips.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/GSheet Formulas and Tips.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Docs/n8n_docs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Docs/n8n_docs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Daily/2022-09-02.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Daily/2022-09-02.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Daily/2022-10-03.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Daily/2022-10-03.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Daily/2022-08-01.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Daily/2022-08-01.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Daily/2022-10-20.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Daily/2022-10-20.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Daily Notes/Daily Notes.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Daily Notes/Daily Notes.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Jira/Jira.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Jira/Jira.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Jira/Jira-Slack.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Jira/Jira-Slack.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/project_template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/project_template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/meeting_template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/meeting_template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/Status Update Template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/Status Update Template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/daily_template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/daily_template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/work_session_template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/work_session_template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/report_task_template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/report_task_template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/Linked Pages Template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/Linked Pages Template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/user_story_template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/user_story_template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/Jira Templates.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/Jira Templates.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/KB_Template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/KB_Template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/meeting_template 1.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/meeting_template 1.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/JS_Excecution_Commands.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/JS_Excecution_Commands.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/Templater Summary.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/Templater Summary.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/Task_List_Template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/Task_List_Template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/1_on_1_template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/1_on_1_template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/Timeline Template.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/Timeline Template.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/Pie ChartTemplate.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/Pie ChartTemplate.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Templates/Scripts/templater_demo.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Templates/Scripts/templater_demo.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/.trash/Untitled 1.md
+Error reading /Users/dcarmocan/Projects/mind-cave/.trash/Untitled 1.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/.trash/Coding_Resources.md
+Error reading /Users/dcarmocan/Projects/mind-cave/.trash/Coding_Resources.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_Top_10_Email_Bounces.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_Top_10_Email_Bounces.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/metrics_process_map.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/metrics_process_map.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_Query_links.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_Query_links.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_Slack.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_Slack.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/Splunk.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/Splunk.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_Expressions.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_Expressions.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPOG_SNOW.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPOG_SNOW.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/Splunk_RZ_Lookups.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/Splunk_RZ_Lookups.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_examples.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Splunk_Docs/SPL_examples.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/01222021_CES Meeting Review Session.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/01222021_CES Meeting Review Session.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/2022-12-12_1-on-1_meeting.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/2022-12-12_1-on-1_meeting.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/Cap_Metrics_Meeting_2022_12_01.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/Cap_Metrics_Meeting_2022_12_01.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/Twilio_Billing_Account.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/Twilio_Billing_Account.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/2022-10-26-WO - Town Hall-Meeting.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/2022-10-26-WO - Town Hall-Meeting.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/2023-04-04_SendGrid_Working_Session.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/2023-04-04_SendGrid_Working_Session.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/Single-Pane of Glass.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/Single-Pane of Glass.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/SPOG_Meeting_Notes.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/SPOG_Meeting_Notes.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/2023-03-16 - SMTP Setup.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/2023-03-16 - SMTP Setup.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/SendGrid Office Hours Meeting.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/SendGrid Office Hours Meeting.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/2022-06-02-ITS-All-Hands.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/2022-06-02-ITS-All-Hands.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/GCP Discussion Meeting.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/GCP Discussion Meeting.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/2022-11-22_Slack Bot Planning Meeting.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/2022-11-22_Slack Bot Planning Meeting.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/Twilio_SendGrid_20221014.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/Twilio_SendGrid_20221014.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/Identity_Sailpoint_Meeting.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/Identity_Sailpoint_Meeting.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/20220516_ITDVO_AWS_Redirect_Meeting.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/20220516_ITDVO_AWS_Redirect_Meeting.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/20221021_1-on-1_carmine.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/20221021_1-on-1_carmine.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/Terminator_Sailpoint_Demo.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/Terminator_Sailpoint_Demo.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/2023-04-03_Personas_Fields.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/2023-04-03_Personas_Fields.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/20220512_All_Hands.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/20220512_All_Hands.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/SFDC_Slackbot_Discussion_Planning.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/SFDC_Slackbot_Discussion_Planning.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Meetings/SignalFX_SendGrid_Meeting-2023-04-17 .md
+Error reading /Users/dcarmocan/Projects/mind-cave/Meetings/SignalFX_SendGrid_Meeting-2023-04-17 .md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/GitLab/GitLab_Variables.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/GitLab/GitLab_Variables.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/GitLab/GitLab.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/GitLab/GitLab.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Agari/Agari.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Agari/Agari.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Collab-Automation/Collab-Automation-Documentation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Collab-Automation/Collab-Automation-Documentation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/SendGrid/SendGrid Staging Guide.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/SendGrid/SendGrid Staging Guide.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/SendGrid/scopes_sendgrid.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/SendGrid/scopes_sendgrid.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Google/Using Docker Compose with Local Cloud Run 8ef8e0895cc442d8b42ea77b14c5dba2.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Google/Using Docker Compose with Local Cloud Run 8ef8e0895cc442d8b42ea77b14c5dba2.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Google/GCP.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Google/GCP.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Google/Google Sheets/sheets_formulas.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Google/Google Sheets/sheets_formulas.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Google/Workflows/Google_Workflow_tech_doc.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Google/Workflows/Google_Workflow_tech_doc.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Google/Terminator/Terminator - Add User Function.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Google/Terminator/Terminator - Add User Function.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Google/Terminator/Terminator_Sailpoint.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Google/Terminator/Terminator_Sailpoint.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Google/Terminator/Terminator Function Docs/terminator_license_revoke_documentation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Google/Terminator/Terminator Function Docs/terminator_license_revoke_documentation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Google/Integrations/appscript_config.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Google/Integrations/appscript_config.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Cisco/Cisco_Email_Settings.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Cisco/Cisco_Email_Settings.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Cisco/Agari_API_Docs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Cisco/Agari_API_Docs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Cisco/Cisco_Docs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Cisco/Cisco_Docs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Cisco/Training_References.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Cisco/Training_References.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Cisco/links.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Cisco/links.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Splunk/Team/team_spl_query.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Splunk/Team/team_spl_query.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Kiteworks/2022-08-19_Kiteworks_Update.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Kiteworks/2022-08-19_Kiteworks_Update.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/M365/MS_Teams_Cleanup_PowerShell.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/M365/MS_Teams_Cleanup_PowerShell.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/M365/Microsoft_Index.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/M365/Microsoft_Index.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/M365/m365_eop_doc.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/M365/m365_eop_doc.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/M365/MS_Teams_Cleanup.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/M365/MS_Teams_Cleanup.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Governance/Legal.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Governance/Legal.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack App Admin Tasks.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack App Admin Tasks.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack Docs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack Docs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Untitled.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Untitled.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Push_Groups.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Push_Groups.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack Connect App Config.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack Connect App Config.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack Coding Helpers and Snippets.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack Coding Helpers and Snippets.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Services.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Services.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/20230210_Slack_Channel_Name_Request.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/20230210_Slack_Channel_Name_Request.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack_Scratchpad.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack_Scratchpad.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/GCP Slack Bot.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/GCP Slack Bot.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack Blurbs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/Slack Blurbs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/Slack_Anomoly_Events.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/Slack_Anomoly_Events.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/slack_response_blurbs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/slack_response_blurbs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/App_Creation_Slack.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/App_Creation_Slack.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/canned_response_templates.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/canned_response_templates.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/working_with_slack_discovery.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/process_docs/working_with_slack_discovery.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/apps/service_account_request_form.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/apps/service_account_request_form.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Slack/apps/AdminTasks_App_Documentation.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Slack/apps/AdminTasks_App_Documentation.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Services/Harshicorp/Hashicorp_Vault_Docs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Services/Harshicorp/Hashicorp_Vault_Docs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Utility/Scripts.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Utility/Scripts.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Utility/Query_Test.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Utility/Query_Test.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Utility/General Blurbs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Utility/General Blurbs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing file: /Users/dcarmocan/Projects/mind-cave/Utility/Slack_App_Blurbs.md
+Error reading /Users/dcarmocan/Projects/mind-cave/Utility/Slack_App_Blurbs.md: 'MemgraphManager' object has no attribute 'execute_and_fetch'
+Processing complete.
+Some nodes in the database:
+Executing query: MATCH (n) RETURN n LIMIT 10
+Query executed successfully.
+(<mgclient.Node(id=21736, labels={'File'}, properties={'name': 'SPOG.md'}) at 0x1716fab20>,)
+(<mgclient.Node(id=21737, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x160614360>,)
+(<mgclient.Node(id=21738, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x160615b30>,)
+(<mgclient.Node(id=21739, labels={'h3'}, properties={'name': 'SPOG.md_SPOG'}) at 0x171738fc0>,)
+(<mgclient.Node(id=21740, labels={'h4'}, properties={'name': 'SPOG.md_Zoom SPOG'}) at 0x17173bfc0>,)
+(<mgclient.Node(id=21741, labels={'h2'}, properties={'name': 'SPOG.md_- Carmine asked for a couple of things for the SPOG on [[2023-03-16]] .  I need to look and see if I can get these items completed in time for the meeting today.'}) at 0x17173be70>,)
+(<mgclient.Node(id=21742, labels={'h4'}, properties={'name': 'SPOG.md_VDI SPOG'}) at 0x171738e40>,)
+(<mgclient.Node(id=21743, labels={'File'}, properties={'name': 'Zoom Dashboard Documentation.md'}) at 0x171738f90>,)
+(<mgclient.Node(id=21744, labels={'hr'}, properties={'name': 'Zoom Dashboard Documentation.md_None'}) at 0x11042ca20>,)
+(<mgclient.Node(id=21745, labels={'hr'}, properties={'name': 'Zoom Dashboard Documentation.md_None'}) at 0x177d123a0>,)
+Some relationships in the database:
+Executing query: MATCH (n)-[r]->(m) RETURN n, r, m LIMIT 10
+Query executed successfully.
+(<mgclient.Node(id=21736, labels={'File'}, properties={'name': 'SPOG.md'}) at 0x1092c89f0>, <mgclient.Relationship(start_id=21736, end_id=21737, type='CONTAINS', properties={}) at 0x16122dfb0>, <mgclient.Node(id=21737, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x171739aa0>)
+(<mgclient.Node(id=21737, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x160616040>, <mgclient.Relationship(start_id=21737, end_id=21737, type='CONTAINS', properties={}) at 0x17159db70>, <mgclient.Node(id=21737, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x1606143f0>)
+(<mgclient.Node(id=21738, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x1606140c0>, <mgclient.Relationship(start_id=21738, end_id=21737, type='CONTAINS', properties={}) at 0x1606405f0>, <mgclient.Node(id=21737, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x160614330>)
+(<mgclient.Node(id=24071, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d119e0>, <mgclient.Relationship(start_id=24071, end_id=21737, type='CONTAINS', properties={}) at 0x160642730>, <mgclient.Node(id=21737, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d10cc0>)
+(<mgclient.Node(id=24072, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d13c60>, <mgclient.Relationship(start_id=24072, end_id=21737, type='CONTAINS', properties={}) at 0x1612400b0>, <mgclient.Node(id=21737, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d12a60>)
+(<mgclient.Node(id=21736, labels={'File'}, properties={'name': 'SPOG.md'}) at 0x177d10ed0>, <mgclient.Relationship(start_id=21736, end_id=21738, type='CONTAINS', properties={}) at 0x1611ec730>, <mgclient.Node(id=21738, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d13c30>)
+(<mgclient.Node(id=21737, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d125e0>, <mgclient.Relationship(start_id=21737, end_id=21738, type='CONTAINS', properties={}) at 0x1611ec2b0>, <mgclient.Node(id=21738, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d11da0>)
+(<mgclient.Node(id=21738, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d12280>, <mgclient.Relationship(start_id=21738, end_id=21738, type='CONTAINS', properties={}) at 0x1611ee270>, <mgclient.Node(id=21738, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d11b30>)
+(<mgclient.Node(id=24071, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d11200>, <mgclient.Relationship(start_id=24071, end_id=21738, type='CONTAINS', properties={}) at 0x1611ee6b0>, <mgclient.Node(id=21738, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d11b90>)
+(<mgclient.Node(id=24072, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d11cb0>, <mgclient.Relationship(start_id=24072, end_id=21738, type='CONTAINS', properties={}) at 0x1611ed2f0>, <mgclient.Node(id=21738, labels={'hr'}, properties={'name': 'SPOG.md_None'}) at 0x177d11770>)
