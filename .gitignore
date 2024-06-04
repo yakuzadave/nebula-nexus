@@ -163,3 +163,5 @@ cython_debug/
 #.idea/
 
 **/.obsidian/
+
+sample_output.txt
